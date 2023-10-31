@@ -9,3 +9,5 @@
 🔭 Take a look at my repositories to explore my projects – they reflect my dedication to delivering high-quality, test-driven code and my continuous journey of learning and growth in the world of web development.
 
 I'm excited to connect with other developers and potential employers. Let's code the future together!
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmantaslv&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
